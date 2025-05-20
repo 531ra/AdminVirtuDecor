@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdminVirtuDecor</string>
+    <string name="supabase_url">https://folnbbdggsyfnnkzkhfd.supabase.co</string>
+    <string name="supabase_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZvbG5iYmRnZ3N5Zm5ua3praGZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc0MjI1MjcsImV4cCI6MjA2Mjk5ODUyN30.vuStxnQAzLfgdY96A4rqrN_saC1wOaQfq6seRyZWDMs</string>
+</resources>
